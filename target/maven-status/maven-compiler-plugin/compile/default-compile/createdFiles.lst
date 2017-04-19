@@ -1,0 +1,6 @@
+BelajarSatu\Application.class
+BelajarSatu\controller\SpringRestController.class
+BelajarSatu\service\TaskService.class
+BelajarSatu\model\TaskModel.class
+BelajarSatu\controller\MainCntroller.class
+BelajarSatu\dao\TaskRepository.class
