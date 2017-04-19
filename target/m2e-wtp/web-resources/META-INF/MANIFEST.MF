@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BelajarSatu
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pebri
+Implementation-Vendor-Id: com.pebri
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/BelajarSatu/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
